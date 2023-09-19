@@ -1,0 +1,77 @@
+﻿<Window x:Class="угрюмова.Window5"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:угрюмова"
+        mc:Ignorable="d"
+        Title="Window5" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Horizontal"
+                    Margin="400,0,0,350">
+            <Button Content="" 
+                    Click="buttonGoToWindow6_Click"
+                    Height="35"
+                    Width="100"
+                    Margin="10"
+                    Background="BlueViolet"/>
+            <Button Content="" 
+                    Click="buttonGoToWindow6_Click"
+                    Height="35"
+                    Width="100"
+                    Margin="10"
+                    Background="BlueViolet"/>
+            <Button Content="" 
+                    Click="buttonGoToWindow6_Click"
+                    Height="35"
+                    Width="100"
+                    Margin="10"
+                    Background="BlueViolet"/>
+        </StackPanel>
+        <WrapPanel Orientation="Horizontal"
+                   Margin="30,90">
+            <Button Content=""
+                    Click="buttonGoToWindow6_Click"
+                    Width="110"
+                    Height="110"
+                    Margin="10"
+                    Background="BlueViolet"/>
+            <Button Content=""
+                    Click="buttonGoToWindow6_Click"
+                    Width="110"
+                    Height="110"
+                    Margin="10"
+                    Background="BlueViolet"/>
+            <Button Content=""
+                    Click="buttonGoToWindow6_Click"
+                    Width="110"
+                    Height="110"
+                    Margin="10"
+                    Background="BlueViolet"/>
+            <Button Content=""
+                    Click="buttonGoToWindow6_Click"
+                    Width="110"
+                    Height="110"
+                    Margin="10"
+                    Background="BlueViolet"/>
+            <Button Content=""
+                    Click="buttonGoToWindow6_Click"
+                    Width="110"
+                    Height="110"
+                    Margin="10"
+                    Background="BlueViolet"/>
+            <Button Content=""
+                    Click="buttonGoToWindow6_Click"
+                    Width="110"
+                    Height="110"
+                    Margin="10"
+                    Background="BlueViolet"/>
+            <Button Content=""
+                    Click="buttonGoToWindow6_Click"
+                    Width="110"
+                    Height="110"
+                    Margin="10"
+                    Background="BlueViolet"/>
+        </WrapPanel>
+    </Grid>
+</Window>

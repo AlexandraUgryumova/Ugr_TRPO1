@@ -1,0 +1,54 @@
+﻿<Window x:Class="угрюмова.Window4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:угрюмова"
+        mc:Ignorable="d"
+        Title="Window4" Height="450" Width="800">
+    <Grid>
+        <Canvas Width="70"
+                Height="70"
+                Margin="365,66,375,318"
+                Background="BlueViolet"
+                />
+        <Canvas Width="70"
+                Height="70"
+                Margin="450,147,280,217"
+                Background="BlueViolet"
+                />
+        <Canvas Width="70"
+                Height="70"
+                Margin="280,147,450,217"
+                Background="BlueViolet"
+                />
+        <Canvas Width="70"
+                Height="70"
+                Margin="552,241,178,123"
+                Background="BlueViolet"
+                />
+        <Canvas Width="70"
+                Height="70"
+                Margin="178,241,552,123"
+                Background="BlueViolet"
+                />
+        <Canvas Width="70"
+                Height="70"
+                Margin="450,338,280,26"
+                Background="BlueViolet"
+                />
+        <Canvas Width="70"
+                Height="70"
+                Margin="280,338,450,26"
+                Background="BlueViolet"
+                />
+        <Button Content="новое окно"
+                Width="100"
+                Height="30" Margin="10,10,0,0"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Background="AliceBlue"
+                Click="Button_Click"
+                />
+    </Grid>
+</Window>

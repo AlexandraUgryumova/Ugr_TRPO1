@@ -1,0 +1,54 @@
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\bin\Debug\угрюмова.exe.config
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\bin\Debug\угрюмова.exe
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\bin\Debug\угрюмова.pdb
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\угрюмова.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\угрюмова.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\MainWindow.g.cs
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\Window1.g.cs
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\Window2.g.cs
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\Window3.g.cs
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\Window4.g.cs
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\Window5.g.cs
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\App.g.cs
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\угрюмова_MarkupCompile.cache
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\угрюмова_MarkupCompile.lref
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\MainWindow.baml
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\Window1.baml
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\Window2.baml
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\Window3.baml
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\Window4.baml
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\Window5.baml
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\угрюмова.g.resources
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\угрюмова.Properties.Resources.resources
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\угрюмова.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\угрюмова.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\угрюмова.exe
+C:\Users\alexa\Desktop\саша\программы\c#\угрюмова трпо №1\угрюмова\obj\Debug\угрюмова.pdb
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\bin\Debug\угрюмова.exe.config
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\bin\Debug\угрюмова.exe
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\bin\Debug\угрюмова.pdb
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\угрюмова.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\угрюмова.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\MainWindow.g.cs
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\Window1.g.cs
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\Window2.g.cs
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\Window3.g.cs
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\Window4.g.cs
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\Window5.g.cs
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\Window6.g.cs
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\App.g.cs
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\угрюмова_MarkupCompile.cache
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\угрюмова_MarkupCompile.lref
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\MainWindow.baml
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\Window1.baml
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\Window2.baml
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\Window3.baml
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\Window4.baml
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\Window5.baml
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\Window6.baml
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\угрюмова.g.resources
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\угрюмова.Properties.Resources.resources
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\угрюмова.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\угрюмова.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\угрюмова.exe
+C:\Users\alexa\Desktop\саша\программы\c#\3 курс\трпо\угрюмова трпо №1\угрюмова\obj\Debug\угрюмова.pdb
